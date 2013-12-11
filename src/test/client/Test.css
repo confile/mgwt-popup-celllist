@@ -1,0 +1,25 @@
+.touchPanel {
+	width: 400px;
+	height: 300px;
+	border: 2px solid black;
+	background-color: yellow;
+}
+
+.popupPanel {
+	background-color: red;
+	position: absolute;
+	width: 600px;
+	height: 600px;
+/* 	visibility: hidden; */
+}
+
+.popupPanelShow {
+	visibility: visible;
+}
+
+.popupPanelTouch {
+	width: 500px;
+	height: 500px;
+	background-color: lime;
+	margin: 0 auto;
+}
